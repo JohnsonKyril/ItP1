@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NewTDBMS.LocalAdapter/1.0.0": {
+        "dependencies": {
+          "NewTDBMS.Service": "1.0.0"
+        },
+        "runtime": {
+          "NewTDBMS.LocalAdapter.dll": {}
+        }
+      },
+      "NewTDBMS.Domain/1.0.0": {
+        "runtime": {
+          "NewTDBMS.Domain.dll": {}
+        }
+      },
+      "NewTDBMS.Service/1.0.0": {
+        "dependencies": {
+          "NewTDBMS.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NewTDBMS.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewTDBMS.LocalAdapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewTDBMS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewTDBMS.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

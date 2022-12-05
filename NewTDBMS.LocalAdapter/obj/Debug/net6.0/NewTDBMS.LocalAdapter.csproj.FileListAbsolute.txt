@@ -1,0 +1,17 @@
+E:\It\try\NewTDBMS.LocalAdapter\bin\Debug\net6.0\NewTDBMS.LocalAdapter.deps.json
+E:\It\try\NewTDBMS.LocalAdapter\bin\Debug\net6.0\NewTDBMS.LocalAdapter.dll
+E:\It\try\NewTDBMS.LocalAdapter\bin\Debug\net6.0\NewTDBMS.LocalAdapter.pdb
+E:\It\try\NewTDBMS.LocalAdapter\bin\Debug\net6.0\NewTDBMS.Domain.dll
+E:\It\try\NewTDBMS.LocalAdapter\bin\Debug\net6.0\NewTDBMS.Service.dll
+E:\It\try\NewTDBMS.LocalAdapter\bin\Debug\net6.0\NewTDBMS.Service.pdb
+E:\It\try\NewTDBMS.LocalAdapter\bin\Debug\net6.0\NewTDBMS.Domain.pdb
+E:\It\try\NewTDBMS.LocalAdapter\obj\Debug\net6.0\NewTDBMS.LocalAdapter.csproj.AssemblyReference.cache
+E:\It\try\NewTDBMS.LocalAdapter\obj\Debug\net6.0\NewTDBMS.LocalAdapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\It\try\NewTDBMS.LocalAdapter\obj\Debug\net6.0\NewTDBMS.LocalAdapter.AssemblyInfoInputs.cache
+E:\It\try\NewTDBMS.LocalAdapter\obj\Debug\net6.0\NewTDBMS.LocalAdapter.AssemblyInfo.cs
+E:\It\try\NewTDBMS.LocalAdapter\obj\Debug\net6.0\NewTDBMS.LocalAdapter.csproj.CoreCompileInputs.cache
+E:\It\try\NewTDBMS.LocalAdapter\obj\Debug\net6.0\NewTDBMS.LocalAdapter.csproj.CopyComplete
+E:\It\try\NewTDBMS.LocalAdapter\obj\Debug\net6.0\NewTDBMS.LocalAdapter.dll
+E:\It\try\NewTDBMS.LocalAdapter\obj\Debug\net6.0\refint\NewTDBMS.LocalAdapter.dll
+E:\It\try\NewTDBMS.LocalAdapter\obj\Debug\net6.0\NewTDBMS.LocalAdapter.pdb
+E:\It\try\NewTDBMS.LocalAdapter\obj\Debug\net6.0\ref\NewTDBMS.LocalAdapter.dll
