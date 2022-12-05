@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0yVqamxORW8sK/H2/EJgBr+x4kjcP0S7Y5n9Silf1D0=",
+  "Source": "NewTDBMS.API",
+  "BasePath": "_content/NewTDBMS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
